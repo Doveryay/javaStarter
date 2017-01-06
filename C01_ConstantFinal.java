@@ -4,7 +4,7 @@ public class C01_ConstantFinal {
     public static void main(String[] args) {
         // На 7-й строке, создаем константу с именем pi, типа double и присваиваем ей значение 3.141
 
-        final double PI = 3.1415;
+        final double PI = 3.14154545;
 
         // На 11-й строке, выводим значение константы - pi, на экран.
 
