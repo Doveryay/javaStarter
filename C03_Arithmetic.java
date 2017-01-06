@@ -13,8 +13,8 @@ public class C03_Arithmetic {
         System.out.println(sum);
 
         // Subtraction (-)
-        byte minuend = 10, subtrahend = 13;
-        int difference = 0;
+        byte minuend = 3, subtrahend = 1;
+        int difference = 45;
         difference = minuend - subtrahend;
 
         System.out.println(difference);
