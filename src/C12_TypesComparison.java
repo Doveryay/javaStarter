@@ -4,7 +4,7 @@ public class C12_TypesComparison {
         boolean result2;
         boolean result3;
 
-        int a = 2;
+        int a = 3;
         float b = 2.0f;
         result1 = a == b;   // Сравнение значения типа int, со значением типа float - допустимо.
 
