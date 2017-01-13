@@ -1,3 +1,5 @@
+package samples;
+
 public class C08_Assignment {
     public static void main(String[] args) {
         // ПРАВИЛО:

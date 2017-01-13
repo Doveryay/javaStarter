@@ -1,3 +1,5 @@
+package samples;
+
 public class C02_Casting {
     public static void main(String[] args) {
         // Преобразование типа (C02_Casting или Type conversion) - это преобразование значения переменной одного типа в значение другого типа.

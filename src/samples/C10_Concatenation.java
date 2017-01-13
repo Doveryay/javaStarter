@@ -1,3 +1,5 @@
+package samples;
+
 public class C10_Concatenation {
     // Сцепление строк. (Конкатенация)
 

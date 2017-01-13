@@ -1,6 +1,8 @@
+package samples;
+
 public class C03_Arithmetic {
 
-    // Арифметические операторы (C03_Arithmetic Operators): +, -, *, /, %
+    // Арифметические операторы (samples.C03_Arithmetic Operators): +, -, *, /, %
 
     public static void main(String[] args) {
         // Addition (+)

@@ -1,3 +1,5 @@
+package samples;
+
 public class C05_MathSqrt {
 
     // Math.sqrt() - математическая функция, которая извлекает квадратный корень

@@ -1,3 +1,5 @@
+package samples;
+
 import static java.lang.Math.pow;
 
 public class C04_MathPow {
