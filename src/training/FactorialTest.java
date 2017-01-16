@@ -4,6 +4,10 @@ import junit.framework.TestCase;
 import training.Factorial;
 
 public class FactorialTest extends TestCase {
+    public void testDivide() {
+        double c = Factorial.divide(3 , 0);
+
+    }
     public void testGetValue(){
         assertEquals(1, Factorial.getValue(0));
         assertEquals(1, Factorial.getValue(1));
@@ -13,4 +17,5 @@ public class FactorialTest extends TestCase {
         assertEquals(120, Factorial.getValue(5));
         assertEquals(720, Factorial.getValue(6));
     }
+
 }
