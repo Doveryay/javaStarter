@@ -14,7 +14,7 @@ public class Loader {
     public Loader(String name) {
         this.name = name;
     }
-
+//Все понятно?
     public String load() throws IOException {
         java.io.InputStream response = new URL(SITE_URL).openStream();
         Scanner s = new Scanner(response).useDelimiter("\\A");
